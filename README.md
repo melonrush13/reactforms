@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This react application demonstrates how React forms works. There is an input box where users can enter their "Name". Once the form is submitted, on button click an alert pops up with the submitted user input.
 
 ## Available Scripts
 
